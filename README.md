@@ -27,10 +27,10 @@ The primary goal of this project was to **design, build, and analyze a system** 
 
 ## Repository Contents
 
-- **`Project_PartA_Task2.ipynb`**  
-  Initial data analysis and preprocessing notebook.
+- **`data_extraction.ipynb`**  
+  Extracting Data from arduino.
 
-- **`Project_PartB_60301085_60300343_local.ipynb`**  
+- **`main.ipynb`**  
   Main notebook containing advanced analysis and implementation of machine learning models for time-series forecasting.
 
 - **`Project_PartB_60301085_60300343.docx`**  
