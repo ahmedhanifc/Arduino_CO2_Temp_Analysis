@@ -33,7 +33,7 @@ The primary goal of this project was to **design, build, and analyze a system** 
 - **`main.ipynb`**  
   Main notebook containing advanced analysis and implementation of machine learning models for time-series forecasting.
 
-- **`Project_PartB_60301085_60300343.docx`**  
+- **`report.docx`**  
   Final report detailing system design, methodology, results, and conclusions.
 
 ---
