@@ -1,6 +1,6 @@
 # Indoor Air Quality Monitoring System
 
-This repository showcases a project on developing an **IoT-based indoor air quality monitoring system**. The project, completed as part of the **DSAI3204 IoT Application Development** course at **Qatar University**, utilizes an **Arduino MKR1010** to collect environmental data and perform predictive analysis using machine learning.
+This repository showcases a project on developing an **IoT-based indoor air quality monitoring system**. The project, completed as part of the **DSAI3204 IoT Application Development** course at **University of Doha for Science and Technology**, utilizes an **Arduino MKR1010** to collect environmental data and perform predictive analysis using machine learning.
 
 ---
 
